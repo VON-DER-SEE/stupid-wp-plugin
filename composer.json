@@ -1,0 +1,10 @@
+{
+    "name": "vdl2/stupid-wp-plugin",
+    "authors": [
+        {
+            "name": "Fabian Kielmann",
+            "email": "fabian.kielmann@gmx.de"
+        }
+    ],
+    "require": {}
+}
